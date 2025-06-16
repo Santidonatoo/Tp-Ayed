@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1717343889 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1717092580 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\cola.h
+	"nodo.h"
+
+1716839096 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\nodo.h
+
+1717343560 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inscripto.h"
+	"matAprobadas.h"
+
+1717105434 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\materia.h
+	"lista.h"
+	"cola.h"
+
+1717113187 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\lista.h
+	"nodo.h"
+
+1717115439 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1717343808 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"materia.h"
+	"matAprobadas.h"
+	"inscripto.h"
+	"menu.h"
+
+1717105587 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\mataprobadas.h
+
+1717343402 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\inscripto.h
+	"lista.h"
+
+1717106886 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\mataprobadas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matAprobadas.h"
+
+1716422851 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
+1717343424 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"inscripto.h"
+
+1717262783 source:c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"materia.h"
+	"inscripto.h"
+
+1717192683 c:\users\santino\documents\unla\segundo año\algoritmos y estructura de datos\tpayed2024\menu.h
+	"lista.h"
+
+1717343889 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\cola.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+
+1717092580 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\cola.h
+	"nodo.h"
+
+1716839096 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\nodo.h
+
+1717343928 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\inscripto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inscripto.h"
+	"matAprobadas.h"
+
+1717343402 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\inscripto.h
+	"lista.h"
+
+1717113187 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\lista.h
+	"nodo.h"
+
+1717105587 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\mataprobadas.h
+
+1717115439 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1717343808 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"materia.h"
+	"matAprobadas.h"
+	"inscripto.h"
+	"menu.h"
+
+1717105434 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\materia.h
+	"lista.h"
+	"cola.h"
+
+1717192683 c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\menu.h
+	"lista.h"
+
+1717106886 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\mataprobadas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matAprobadas.h"
+
+1717343424 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"inscripto.h"
+
+1717262783 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"materia.h"
+	"inscripto.h"
+
+1716422851 source:c:\users\santi\onedrive\documentos\santino\unla\segundo año\algoritmos y estructura de datos\tpayed2024\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodo.h"
+	"lista.h"
+
